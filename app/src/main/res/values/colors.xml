@@ -2,4 +2,11 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="primary">#303F9F</color>
+    <color name="yellow_bg">#FFFF00</color>
+    <color name="blue_bg">#303F9F</color>
+    <color name="orange_bg">#FF5722</color>
+    <color name="button_blue">#303F9F</color>
+    <color name="button_light">#E0E0E0</color>
+    <color name="button_light_text">#000000</color>
 </resources>
